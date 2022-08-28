@@ -5,7 +5,7 @@
 
 这里是是饺子呀QwQ，御坂网络节点编号10072，你也可以叫我Misaka10072，初三在读学生
 
-This is sjzyQwQ, Misaka network node serial number is 10072, so you can also call me Misaka10072,a Grade 9 student
+This is sjzyQwQ, Misaka network node serial number is 10072, so you can also call me Misaka10072, a Grade 9 student
 
 # 联系我 (How to reach me)
 
