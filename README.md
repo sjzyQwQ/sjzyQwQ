@@ -9,7 +9,7 @@ This is sjzyQwQ, Misaka network node serial number is 10072, so you can also cal
 
 # 联系我 (How to reach me)
 
-你可以发送电子至misaka@mis1072.top来联系我
+你可以发送电子邮件至misaka@mis1072.top来联系我
 
 You can send email to misaka@mis1072.top to reach me
 
