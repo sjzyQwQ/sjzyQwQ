@@ -16,3 +16,5 @@ You can send email to misaka@mis1072.top to reach me
 # 我的个人网站 (My personal website)
 
 [饺子の小窝](https://www.mis1072.top)（仅中文/Chinese only）
+
+[饺子の下载站](https://dl.mis1072.top)（推荐中文/Chinese is recommended）
