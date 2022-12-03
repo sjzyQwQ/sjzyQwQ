@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjzyQwQ&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjzyQwQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![sjzyQwQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjzyQwQ&show_icons=true&count_private=true&theme=transparent&title_color=f5abb9&text_color=f5abb9&icon_color=f5abb9&border_color=f5abb9&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sjzyQwQ&layout=compact&show_icons=true&count_private=true&theme=transparent&title_color=f5abb9&text_color=f5abb9&icon_color=f5abb9&border_color=f5abb9&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 # 我是谁 (About me)
 
