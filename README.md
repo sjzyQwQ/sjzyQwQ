@@ -8,10 +8,6 @@ This is Jiaozi, full name is sjzyQwQ
 
 Misaka Network node serial number is 10072, you can call me Misaka10072
 
-初三学生
-
-A grade 9 student
-
 - ### :mailbox: Contact me
 
   你可以发送邮件至 misaka@mis1072.top 来联系我
@@ -29,7 +25,7 @@ A grade 9 student
 - ### :pencil2: Develop Environment
 
   [![Windows](https://img.shields.io/badge/Windows-11_Insider_Preview-0078D4?style=flat-square&logo=Windows11)](https://www.microsoft.com/windows/)
-  [![Debian](https://img.shields.io/badge/Debian-bookworm-A81D33?style=flat-square&logo=Debian)](https://www.debian.org/)
+  [![Debian](https://img.shields.io/badge/Debian-trixie-A81D33?style=flat-square&logo=Debian)](https://www.debian.org/)
   [![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=flat-square&logo=ArchLinux)](https://archlinux.org/)
 
   [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio)](https://visualstudio.microsoft.com/)
