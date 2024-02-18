@@ -42,6 +42,6 @@ Misaka Network node serial number is 10072, you can call me Misaka10072
 
   [饺子の小窝](https://www.mis1072.top/)（仅中文/Chinese Only）
 
-  [饺子の下载站](https://d.mis1072.top/)（推荐中文/Chinese is recommended）
+  [饺子の网盘](https://pan.mis1072.top/)
 
 ⌜如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。⌟
