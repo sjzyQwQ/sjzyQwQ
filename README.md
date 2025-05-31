@@ -21,8 +21,6 @@ Misaka Network node serial number is 10072, you can call me Misaka10072
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
   [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown)](https://daringfireball.net/projects/markdown/)
 
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs?username=sjzyQwQ&layout=compact&show_icons=true&count_private=true&locale=cn&bg_color=45,5bcffa,f5abb9,ffffff,f5abb9,5bcffa' alt='Used Language'></a>
-
 - ### :pencil2: Develop Environment
 
   [![Windows](https://img.shields.io/badge/Windows-11_Insider_Preview-0078D4?style=flat-square&logo=Windows11)](https://www.microsoft.com/windows/)
@@ -33,12 +31,8 @@ Misaka Network node serial number is 10072, you can call me Misaka10072
   [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim)](https://www.vim.org/)
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api?username=sjzyQwQ&show_icons=true&count_private=true&theme=transparent&locale=cn&bg_color=45,5bcffa,f5abb9,ffffff,f5abb9,5bcffa" alt="sjzyQwQ's GitHub stats" align=right></a>
-
 - ### Website
 
-  [饺子の小窝](https://www.mis1072.top/)（仅中文/Chinese Only）
-
-  [饺子の网盘](https://pan.mis1072.top/)
+  [饺子の小窝](https://www.mis1072.top/)
 
 ⌜如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。⌟
